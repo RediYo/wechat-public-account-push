@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'd78d635f198df8e81de8ff3ebb6a9852',
 
-  PROVINCE: '湖北',
-  CITY: '宜昌',
+  //PROVINCE: {{province.DATA}},
+  //CITY: {{city.DATA}},
 
   USERS: [
     {
@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oxkvI6FoyLx2wFupy3F5i1w-SuO8',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'efuJyoJkWbXMfWHMK4zKWIOXUemBIN6Mkvhz4yBBQ6s',
+      useTemplateId: 'FeBBGupwJWfkhFwO8Ioj4amhl21z3OmioaAdLVZslXI',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '07-30',
       festivals: [
@@ -53,7 +53,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oxkvI6A2wr1xiavcu5FtNC66l3nA',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'efuJyoJkWbXMfWHMK4zKWIOXUemBIN6Mkvhz4yBBQ6s',
+      useTemplateId: 'FeBBGupwJWfkhFwO8Ioj4amhl21z3OmioaAdLVZslXI',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '04-02',
       festivals: [
